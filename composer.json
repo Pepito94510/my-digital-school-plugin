@@ -1,5 +1,6 @@
 {
     "name": "kevinboissiere/plugin_php",
+    "description": "first php package",
     "type": "composer-plugin",
     "autoload": {
         "psr-4": {
