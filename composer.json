@@ -1,0 +1,16 @@
+{
+    "name": "kevinboissiere/plugin_php",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Kevinboissiere\\PluginPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pepito94510",
+            "email": "kevin.boissiere94@gmail.com"
+        }
+    ],
+    "require": {}
+}
